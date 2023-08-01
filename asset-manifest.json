@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excuse-generate/static/css/main.abd64e84.css",
+    "main.js": "/excuse-generate/static/js/main.9b3a2e3f.js",
+    "index.html": "/excuse-generate/index.html",
+    "main.abd64e84.css.map": "/excuse-generate/static/css/main.abd64e84.css.map",
+    "main.9b3a2e3f.js.map": "/excuse-generate/static/js/main.9b3a2e3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.9b3a2e3f.js"
+  ]
+}
